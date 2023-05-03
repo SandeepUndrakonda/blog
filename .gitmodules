@@ -1,0 +1,4 @@
+[submodule "DSucceed/DSucceed.github.io"]
+	path = DSucceed/DSucceed.github.io
+	url = https://github.com/SandeepUndrakonda/DSucceed.github.io.git
+	branch = main
